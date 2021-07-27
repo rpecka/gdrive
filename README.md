@@ -1,6 +1,9 @@
 gdrive
 ======
 
+## Why I made this fork
+The [official gdrive repo](https://github.com/prasmussen/gdrive) seems to not be accepting fixes from the community, so this fork was created to bundle some of the community provided solutions that I needed together until the main repo starts to get some updates.
+
 
 ## Overview
 gdrive is a command line utility for interacting with Google Drive.
